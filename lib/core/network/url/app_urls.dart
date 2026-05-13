@@ -1,5 +1,5 @@
 class AppUrls {
-  static const baseUrl = "https://cstoreauditdev.catalist-me.com/ApscoSurvey";
+  static const baseUrl = "https://cstoreaudit.catalist-me.com/ApscoSurvey";
 
   static const loginApi = "$baseUrl/loginUser";
   static const getQuestions = "$baseUrl/getQuestions";
